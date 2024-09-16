@@ -3,29 +3,29 @@ export const navigation = [
     title: 'Daily Learning Plan',
     links: [
       { title: 'Getting started', href: '/' },
-      { title: 'Installation', href: '/docs/installation' },
+      { title: 'Today\'s goals', href: '/docs/installation' },
     ],
   },
   {
     title: 'Vocabularly Builder',
     links: [
-      { title: 'Understanding caching', href: '/docs/understanding-caching' },
+      { title: 'Build your vocab', href: '/docs/understanding-caching' },
       {
-        title: 'Predicting user behavior',
+        title: 'Words of the day',
         href: '/docs/predicting-user-behavior',
       },
-      { title: 'Basics of time-travel', href: '/docs/basics-of-time-travel' },
+      { title: 'Word frenquency', href: '/docs/basics-of-time-travel' },
       {
-        title: 'Introduction to string theory',
+        title: 'Expand your word bank',
         href: '/docs/introduction-to-string-theory',
       },
-      { title: 'The butterfly effect', href: '/docs/the-butterfly-effect' },
+      { title: 'Your word bank', href: '/docs/the-butterfly-effect' },
     ],
   },
   {
     title: 'Phrases',
     links: [
-      { title: 'Writing plugins', href: '/docs/writing-plugins' },
+      { title: 'Essential phrases', href: '/docs/writing-plugins' },
       { title: 'Neuralink integration', href: '/docs/neuralink-integration' },
       { title: 'Temporal paradoxes', href: '/docs/temporal-paradoxes' },
       { title: 'Testing', href: '/docs/testing' },
@@ -39,7 +39,7 @@ export const navigation = [
   {
     title: 'Grammar Explainer',
     links: [
-      { title: 'CacheAdvance.predict()', href: '/docs/cacheadvance-predict' },
+      { title: 'Forming yes/no questions', href: '/docs/cacheadvance-predict' },
       { title: 'CacheAdvance.flush()', href: '/docs/cacheadvance-flush' },
       { title: 'CacheAdvance.revert()', href: '/docs/cacheadvance-revert' },
       { title: 'CacheAdvance.regret()', href: '/docs/cacheadvance-regret' },
