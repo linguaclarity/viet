@@ -39,7 +39,7 @@ export const navigation = [
   {
     title: 'Grammar Explainer',
     links: [
-      { title: 'Forming yes/no questions', href: '/docs/cacheadvance-predict' },
+      { title: 'Forming yes/no questions', href: '/docs/forming-yes-no-questions' },
       { title: 'CacheAdvance.flush()', href: '/docs/cacheadvance-flush' },
       { title: 'CacheAdvance.revert()', href: '/docs/cacheadvance-revert' },
       { title: 'CacheAdvance.regret()', href: '/docs/cacheadvance-regret' },
