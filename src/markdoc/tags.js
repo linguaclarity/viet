@@ -1,5 +1,6 @@
 import { Callout } from '@/components/Callout'
 import { QuickLink, QuickLinks } from '@/components/QuickLinks'
+import AudioPlayer from '@/components/AudioPlayer'
 
 const tags = {
   callout: {
@@ -40,6 +41,13 @@ const tags = {
       description: { type: String },
       icon: { type: String },
       href: { type: String },
+    },
+  },
+  audio: {
+    selfClosing: true,
+    render: AudioPlayer,
+    attributes: {
+      src: { type: String },
     },
   },
 }

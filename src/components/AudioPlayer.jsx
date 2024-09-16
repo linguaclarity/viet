@@ -1,8 +1,8 @@
-import { useState, useRef } from 'react'
+import React, { useState, useRef } from 'react'
 
-export default function AudioPlayer({ src }: { src: string }) {
+export default function AudioPlayer({ src }) {
   const [isPlaying, setIsPlaying] = useState(false)
-  const audioRef = useRef<HTMLAudioElement>(null)
+  const audioRef = useRef(null)
 
   const togglePlayPause = () => {
     if (audioRef.current) {

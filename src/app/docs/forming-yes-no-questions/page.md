@@ -85,15 +85,5 @@ By understanding and practicing these structures, you can effectively ask yes-no
 ### Listen to audio
 
 How do I insert an audio file?
-export default function AudioPage() {
-  return (
-    <div className="container mx-auto p-4">
-      <h1 className="text-2xl font-bold mb-4">Listen to the Audio</h1>
-      <audio controls className="w-full">
-        <source src="/audio/forming-yes-no-questions.mp4" type="audio/mp4" />
-        Your browser does not support the audio element.
-      </audio>
-    </div>
-  );
-}
+{% audio src="/audio/forming-yes-no-questions.mp3" /%}
 
