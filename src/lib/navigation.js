@@ -17,7 +17,7 @@ export const navigation = [
       { title: 'Word frenquency', href: '/docs/basics-of-time-travel' },
       {
         title: 'Yet',
-        href: '/docs/introduction-to-string-theory',
+        href: '/docs/yet',
       },
       { title: 'Exhausted', href: '/docs/exhausted' },
     ],
