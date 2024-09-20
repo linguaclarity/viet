@@ -15,11 +15,11 @@ export const navigation = [
         href: '/docs/predicting-user-behavior',
       },
       { title: 'Word frenquency', href: '/docs/basics-of-time-travel' },
-      {
-        title: 'Yet',
-        href: '/docs/yet',
-      },
+      { title: 'Already', href: '/docs/already' },
       { title: 'Exhausted', href: '/docs/exhausted' },
+      { title: 'Yet', href: '/docs/yet',},
+      
+    
     ],
   },
   {

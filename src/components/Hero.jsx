@@ -52,7 +52,7 @@ export function Hero() {
                 Viet Lingua Clarity
               </p>
               <p className="mt-3 text-2xl tracking-tight text-slate-400">
-              a personalized pathway, guided by AI
+              a personalized language learning pathway
               </p>
               <div className="mt-8 flex gap-4 md:justify-center lg:justify-start">
                 <Button href="/">Get started</Button>
