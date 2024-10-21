@@ -16,6 +16,7 @@ export const navigation = [
       },
       { title: 'Word frenquency', href: '/docs/basics-of-time-travel' },
       { title: 'Already', href: '/docs/already' },
+      { title: 'Already, then, roi', href: '/docs/then-roi' },
       { title: 'Exhausted', href: '/docs/exhausted' },
       { title: 'Yet', href: '/docs/yet',},
       
@@ -25,6 +26,7 @@ export const navigation = [
   {
     title: 'Phrases',
     links: [
+      { title: 'Do you want to have dinner?', href: '/docs/do-u-want-to-have-dinner' },
       { title: 'Essential phrases', href: '/docs/writing-plugins' },
       { title: 'I need to talk with you', href: '/docs/I-need-to-talk-with-you' },
       { title: 'You must be exhausted', href: '/docs/you-must-be-exhausted' },
@@ -40,7 +42,7 @@ export const navigation = [
     title: 'Grammar Explainer',
     links: [
       { title: 'Forming yes/no questions', href: '/docs/forming-yes-no-questions' },
-      { title: 'CacheAdvance.flush()', href: '/docs/cacheadvance-flush' },
+      { title: 'Where is', href: '/docs/where-is' },
       { title: 'CacheAdvance.revert()', href: '/docs/cacheadvance-revert' },
       { title: 'CacheAdvance.regret()', href: '/docs/cacheadvance-regret' },
     ],
@@ -48,7 +50,6 @@ export const navigation = [
   {
     title: 'Pronunciation Guide',
     links: [
-      { title: 'How to contribute', href: '/docs/how-to-contribute' },
       { title: 'Architecture guide', href: '/docs/architecture-guide' },
       { title: 'Design principles', href: '/docs/design-principles' },
     ],
@@ -64,7 +65,7 @@ export const navigation = [
   {
     title: 'Practice Conversations',
     links: [
-      { title: 'How to contribute', href: '/docs/how-to-contribute' },
+      { title: 'Exercises', href: '/docs/exercises-to-practice' },
       { title: 'Architecture guide', href: '/docs/architecture-guide' },
       { title: 'Design principles', href: '/docs/design-principles' },
     ],
